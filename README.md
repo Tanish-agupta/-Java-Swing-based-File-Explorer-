@@ -29,10 +29,6 @@ A desktop-based **File Explorer** built using **Java Swing**. It replicates comm
 - 🖼️ **System Icons**
   - Uses system-native file and folder icons via `FileSystemView`
 
-## 🖥️ Screenshots
-
-> *(Insert screenshot image files here if desired)*
-
 ## 🚀 Getting Started
 
 ### Requirements
